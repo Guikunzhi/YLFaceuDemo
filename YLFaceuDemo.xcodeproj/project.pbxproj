@@ -13,7 +13,7 @@
 		300DFABE1CF18DF400B05208 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 300DFABC1CF18DF400B05208 /* Main.storyboard */; };
 		300DFAC01CF18DF400B05208 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 300DFABF1CF18DF400B05208 /* Assets.xcassets */; };
 		300DFAC31CF18DF400B05208 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 300DFAC11CF18DF400B05208 /* LaunchScreen.storyboard */; };
-		300DFACB1CF192ED00B05208 /* cap.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 300DFACA1CF192ED00B05208 /* cap.jpg */; };
+		355A485E1D01CFCB007D7DC4 /* cap.png in Resources */ = {isa = PBXBuildFile; fileRef = 355A485D1D01CFCB007D7DC4 /* cap.png */; };
 		C46BBC25755DD982D9EC3BCB /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FFBB1E6B1F94E08ABC90B230 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -28,8 +28,8 @@
 		300DFABF1CF18DF400B05208 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		300DFAC21CF18DF400B05208 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		300DFAC41CF18DF400B05208 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		300DFACA1CF192ED00B05208 /* cap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cap.jpg; sourceTree = "<group>"; };
 		330E05E982B8FC6D8DE214DE /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		355A485D1D01CFCB007D7DC4 /* cap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cap.png; sourceTree = "<group>"; };
 		8E3B91C80CADC4CE1A463CA1 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		FFBB1E6B1F94E08ABC90B230 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -75,7 +75,7 @@
 				300DFABF1CF18DF400B05208 /* Assets.xcassets */,
 				300DFAC11CF18DF400B05208 /* LaunchScreen.storyboard */,
 				300DFAC41CF18DF400B05208 /* Info.plist */,
-				300DFACA1CF192ED00B05208 /* cap.jpg */,
+				355A485D1D01CFCB007D7DC4 /* cap.png */,
 				300DFAB31CF18DF400B05208 /* Supporting Files */,
 			);
 			path = YLFaceuDemo;
@@ -168,8 +168,8 @@
 			files = (
 				300DFAC31CF18DF400B05208 /* LaunchScreen.storyboard in Resources */,
 				300DFAC01CF18DF400B05208 /* Assets.xcassets in Resources */,
-				300DFACB1CF192ED00B05208 /* cap.jpg in Resources */,
 				300DFABE1CF18DF400B05208 /* Main.storyboard in Resources */,
+				355A485E1D01CFCB007D7DC4 /* cap.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
