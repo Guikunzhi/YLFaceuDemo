@@ -229,7 +229,7 @@
     if (!_elementView) {
         _elementView = [[UIView alloc] initWithFrame:self.view.frame];
         _capImageView = [[UIImageView alloc] initWithFrame:CGRectMake(0, 0, 160, 160)];
-        [_capImageView setImage:[UIImage imageNamed:@"cap.jpg"]];
+        [_capImageView setImage:[UIImage imageNamed:@"cap"]];
         [_elementView addSubview:_capImageView];
     }
     return _elementView;
